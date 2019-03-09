@@ -9,10 +9,11 @@ A simple widget that shows the travel itinerary on a given day, with three diffe
 </p>
 
 ## Demo
-
-         Loading           |        Itinerary
-:-------------------------:|:-------------------------:
-![](https://github.com/rajeshdavidbabu/react-hooks-itinerary-widget/blob/master/demo/loading.jpg)  |  ![](https://github.com/rajeshdavidbabu/react-hooks-itinerary-widget/blob/master/demo/itinerary.jpg)
+                    Loading...                        |                   Itinerary Cards
+<p>
+  <img src="https://github.com/rajeshdavidbabu/react-hooks-itinerary-widget/blob/master/demo/loading.png" width="49%" />
+  <img src="https://github.com/rajeshdavidbabu/react-hooks-itinerary-widget/blob/master/demo/itinerary.png" width="49%" /> 
+</p>
 
 ## Description
 The project is a simple react-hooks based widget for the daily itinerary, fetched from the server. Currently, it supports three card for ground, airport and flight travel. The data currently comes form a mock-server.
