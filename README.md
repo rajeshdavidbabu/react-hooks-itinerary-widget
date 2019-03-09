@@ -1,4 +1,4 @@
-# react-hooks-itinerary-widget
+# React Hooks Itinerary Widget
 A simple widget that shows the travel itinerary on a given day, with three different types of card. 
 
 <p>
