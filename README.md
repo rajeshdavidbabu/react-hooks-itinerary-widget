@@ -12,7 +12,7 @@ A simple widget that shows the travel itinerary on a given day, with three diffe
 The project is a simple react-hooks based widget for the daily itinerary, fetched from the server. Currently, it supports three card for ground, airport and flight travel. The data currently comes form a mock-server.
 
 ## Motivation
-React is moving towards a class-less feature. So, its about time we got on that train as well. The hooks pattern might resemble a javascript-closure based encapsulation pattern. Though the state is no more associated with a component, one needs to be a bit more careful to stick out to the rules of the [hooks](https://reactjs.org/docs/hooks-intro.html). 
+React is moving towards a class-less future. So, its about time we got on that train as well. The hooks pattern might resemble a javascript-closure based encapsulation pattern. Though the state is no more associated with a component, one needs to be a bit more careful to stick out to the rules of the [hooks](https://reactjs.org/docs/hooks-intro.html). 
 
 ## Built Using
 - React 16.8+
